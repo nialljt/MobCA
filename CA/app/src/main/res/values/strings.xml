@@ -3,4 +3,5 @@
 
     <string name="app_name">Niall Traynor</string>
     <string name="left_image_view">leftImage</string>
+    <string name="load_data">Load Data</string>
 </resources>
