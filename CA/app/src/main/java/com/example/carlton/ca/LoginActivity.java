@@ -34,7 +34,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
      * TODO: remove after connecting to a real authentication system.
      */
     private static final String[] DUMMY_CREDENTIALS = new String[]{
-            "foo@example.com:hello", "bar@example.com:world"
+            "foo@example.com:hello", "bar@example.com:world", "niallt18@gmail.com:password"
     };
 
     /**
